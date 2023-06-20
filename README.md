@@ -18,7 +18,7 @@
 2. Склонируйте репозиторий на свой компьютер:
    
    ```bash
-   $ git clone https://github.com/your_username/tetris.git
+   $ git clone https://github.com/ikolbeko/Tetris-Game.git
    ```
 3. Перейдите в каталог проекта:
    
